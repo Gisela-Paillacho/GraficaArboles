@@ -1,0 +1,14 @@
+C:\Users\SOLUTIONS\GraficaArboles\bin\Debug\net10.0\GraficaArboles.exe
+C:\Users\SOLUTIONS\GraficaArboles\bin\Debug\net10.0\GraficaArboles.deps.json
+C:\Users\SOLUTIONS\GraficaArboles\bin\Debug\net10.0\GraficaArboles.runtimeconfig.json
+C:\Users\SOLUTIONS\GraficaArboles\bin\Debug\net10.0\GraficaArboles.dll
+C:\Users\SOLUTIONS\GraficaArboles\bin\Debug\net10.0\GraficaArboles.pdb
+C:\Users\SOLUTIONS\GraficaArboles\obj\Debug\net10.0\GraficaArboles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOLUTIONS\GraficaArboles\obj\Debug\net10.0\GraficaArboles.AssemblyInfoInputs.cache
+C:\Users\SOLUTIONS\GraficaArboles\obj\Debug\net10.0\GraficaArboles.AssemblyInfo.cs
+C:\Users\SOLUTIONS\GraficaArboles\obj\Debug\net10.0\GraficaArboles.csproj.CoreCompileInputs.cache
+C:\Users\SOLUTIONS\GraficaArboles\obj\Debug\net10.0\GraficaArboles.dll
+C:\Users\SOLUTIONS\GraficaArboles\obj\Debug\net10.0\refint\GraficaArboles.dll
+C:\Users\SOLUTIONS\GraficaArboles\obj\Debug\net10.0\GraficaArboles.pdb
+C:\Users\SOLUTIONS\GraficaArboles\obj\Debug\net10.0\GraficaArboles.genruntimeconfig.cache
+C:\Users\SOLUTIONS\GraficaArboles\obj\Debug\net10.0\ref\GraficaArboles.dll
